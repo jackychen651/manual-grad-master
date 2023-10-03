@@ -1,2 +1,2 @@
 # manual-grad-master
-A toy model without autograd.
+A fully-connected neural network without autograd.
